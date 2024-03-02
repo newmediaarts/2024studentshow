@@ -5,6 +5,7 @@ body {
     font-size: 87.5%; 
     color: white;
     line-height: 1.5;
+    background-color: #174248;
  }
 
  /* HEADINGS
@@ -182,7 +183,7 @@ section {
 
 .hero {
     padding: 6em 4%;
-    background-color: #174248;
+    /* background-color: #174248; */
     text-align: center;
 }
 

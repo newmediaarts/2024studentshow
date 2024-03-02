@@ -4,11 +4,9 @@
 	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#D25226;stroke-width:5.5;stroke-linecap:round;stroke-miterlimit:10;}
-	.st1{fill:#174248;}
-	.st2{fill:none;stroke:#D25226;stroke-width:5.4999;stroke-linecap:round;stroke-miterlimit:9.9998;}
+	.st1{fill:none;stroke:#D25226;stroke-width:5.4998;stroke-linecap:round;stroke-miterlimit:9.9996;}
 </style>
 <path class="st0" d="M18.8,66.3"/>
-<rect x="0.2" y="-0.2" class="st1" width="500" height="500"/>
 <path class="st0" d="M312.6,107c0,0-23.6,27.8-53.7,27.8s-56.2-25.1-92.7-16.9c-21.2,4.7-53.3,34.2-43.4,44.1
 	c6.9,6.9,30.1-32,16.6-32c-33.6,0-63.1,40.6-72,62.4C60.7,209,54,255,73.3,261.3c20.3,6.7,54.4-38.8,35.4-58.6
 	c-7.5-7.8-25.7,8.8-31.4,27"/>
@@ -32,5 +30,5 @@
 <path class="st0" d="M164.4,371.8c0,0,38,35.8,90,15.1c52.1-20.7,78.1-57.3,78.1-57.3c4.9-5.9,26.3-29.6,29.7-21.9
 	c1.3,3-6,10.2-11.2,13.8c-8.6,6.1-19.4,8.7-22.5,4.1c-5.9-8.7,33.3-60.6,18.4-65"/>
 <path class="st0" d="M252.8,162.3"/>
-<ellipse transform="matrix(0.5 -0.866 0.866 0.5 30.5901 325.8685)" class="st2" cx="297.5" cy="136.4" rx="3.7" ry="2.5"/>
+<ellipse transform="matrix(0.5 -0.866 0.866 0.5 30.574 325.8234)" class="st1" cx="297.5" cy="136.4" rx="3.7" ry="2.5"/>
 </svg>
