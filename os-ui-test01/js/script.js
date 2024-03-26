@@ -90,6 +90,7 @@ function window_open (id) {
 
 function init_window() {
     closeButton(shorter)
+    shorter_window()
     maximise.onclick = e => {
         click.play()
         maximise_window()
