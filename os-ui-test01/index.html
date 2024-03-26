@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>2024 NMA Student Show</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+
+    <!-- Main Styles -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <!-- Main OS container + top & bottom bars -->
+    <div class="nma-os-container">
+        <div id="nma-top-bar">
+            <div class="app-id">2024 NMA Student Show</div>
+            <div class="utility-nav">Tuesday May 14, 2024</div>
+        </div>
+        <div id="nma-os-apps"></div>
+        <div id="nma-bottom-bar">
+            <div class="nma-taskbar">
+                [ add bottom dock links here ]
+            </div>
+        </div>
+    </div>
+
+    <!-- App window template -->
+    <div class="nma-os-window hidden" draggable="true">
+        <!-- Top window -->
+        <div class="window-bar">
+            <!-- Icon -->
+            <div class="icon"></div>
+            <!-- Maximize, cross etc buttons -->
+            <div class="buttons">
+                <!-- Maximize button -->
+                <button id="maximise">
+                    <svg style="width:24px;height:24px" viewBox="0 0 24 24">
+                        <path fill="#000" d="M4,4H20V20H4V4M6,8V18H18V8H6Z" />
+                    </svg>
+                </button>
+                <!-- Window size restore button -->
+                <button id="shorter">
+                    <svg style="width:24px;height:24px" viewBox="0 0 24 24">
+                        <path fill="#000" d="M20,14H4V10H20" />
+                    </svg>
+                </button>
+                <!-- App close button -->
+                <button id="cross">
+                    <svg style="width:24px;height:24px" viewBox="0 0 24 24">
+                        <path fill="#000" d="M13.46,12L19,17.54V19H17.54L12,13.46L6.46,19H5V17.54L10.54,12L5,6.46V5H6.46L12,10.54L17.54,5H19V6.46L13.46,12Z" />
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+
+        <!-- Window content -->
+        <div class="app" id="app-main">
+            <div class="nma-content-box"></div>
+        </div>
+
+
+    </div>
+
+    <div class="visibly-hidden">
+
+        <div id="johndoe-content">
+            <h2>John Doe</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde, laudantium?</p>
+        </div>
+        <div id="sallysmith-content">
+            <h2>Sally Smith</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde, laudantium?</p>
+        </div>
+
+    </div>
+
+
+    <!-- Vex JS Modal -->
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
