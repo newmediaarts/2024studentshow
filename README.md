@@ -15,3 +15,7 @@ A working repo for the NMA 2024 Student Show
 ## OS UI Site Drafts:
 * [OS UI Test 01](https://newmediaarts.github.io/2024studentshow/os-ui-test01)
    - initial test v0.1
+
+## Final Site Drafts:
+* [Final Site v01](https://newmediaarts.github.io/2024studentshow/final-site-v01)
+   - initial test v0.1 mL

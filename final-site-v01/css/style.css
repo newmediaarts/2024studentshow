@@ -1,0 +1,95 @@
+/* --------- 
+TABLE OF CONTENTS 
+    #VARIABLES
+    #GLOBALS
+        #RESET
+        #COLORS
+        #TYPOGRAPHY
+        #MEDIA
+        #HELPERS
+    #LAYOUT
+        #CONTAINER
+        #GRID
+    #SECTION
+        #HERO
+        #PRACTICUM
+        #GRADUATES
+            #NAMES
+            #INDIVIDUAL SECTIONS
+        #ABOUT + CREDITS
+------------ */
+
+/* VARIABLES */
+html {
+    --body-bg: rgb(255 255 255 / 1);
+    --color-text-dark: #000000;
+    --color-text-light: #ffffff;
+    --nma-blue: #39C;
+    --nma-blue-dark: #069;
+    --space-sm: 1em;
+}
+
+/* GLOBAL RESETS */
+* {box-sizing: border-box;}
+body {margin: 0;}
+html, body {height: 100%;}
+
+/* GLOBAL COLORS */
+body {
+    background-color: var(--body-bg);
+    color: var(--color-text);
+}
+/* LAYOUT */
+body {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+/* CONTAINER */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 var(--space-sm);
+    border: 1px solid #000;
+}
+/* HEADER */
+header {
+    padding: var(--space-sm);
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+header a {
+    padding: 1em;
+}
+/* MAIN SECTIONS */
+main {
+    background: pink;
+}
+/* SECTIONS ALL */
+section {
+    padding: 6em 0;
+}
+
+/* HERO SECTION */
+.hero {
+    background-color: var(--nma-blue-dark);
+    color: var(--color-text-light);
+}
+
+#practicum {
+    background-color: var(--nma-blue);
+    color: var(--color-text-dark);
+}
+
+/* FOOTER */
+footer {
+    padding: var(--space-sm);
+}
