@@ -10,6 +10,8 @@ A working repo for the NMA 2024 Student Show
    - animated coming soon
 * [Coming Soon Test 04](https://newmediaarts.github.io/2024studentshow/test04-comingsoon)
    - animated coming soon handwritten style
+* [Coming Soon Test 05](https://newmediaarts.github.io/2024studentshow/test05-comingsoon)
+   - changed to poster blue and white, removed cloud
 
 
 ## OS UI Site Drafts:
