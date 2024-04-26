@@ -20,6 +20,8 @@ A working repo for the NMA 2024 Student Show
 
 ## Final Site Drafts:
 * [Final Site v01](https://newmediaarts.github.io/2024studentshow/final-site-v01)
-   - initial test mL
+   - initial test - mL
 * [Final Site v02](https://newmediaarts.github.io/2024studentshow/final-site-v02)
-   - added global type mL
+   - added global type - mL
+* [Final Site v03](https://newmediaarts.github.io/2024studentshow/final-site-v03)
+   - added some more styling - cg
