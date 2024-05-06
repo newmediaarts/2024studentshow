@@ -25,3 +25,12 @@ A working repo for the NMA 2024 Student Show
    - added global type - mL
 * [Final Site v03](https://newmediaarts.github.io/2024studentshow/final-site-v03)
    - added some more styling - cg
+* [Final Site v04](https://newmediaarts.github.io/2024studentshow/final-site-v04)
+   - added more content, scroll.js - cg
+
+## To-do's:
+* Add fancybox (from 2023?) for the film
+* Layout Student Sections
+* Get Content from Animators (copy + film poster image + url to video)
+* Figure out line art color, stroke, etc
+* Revise About Copy 
