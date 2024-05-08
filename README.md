@@ -31,10 +31,12 @@ A working repo for the NMA 2024 Student Show
    - added more content, map, hero, fancybox, font awesome, script.js - mL
 * [Final Site v06](https://newmediaarts.github.io/2024studentshow/final-site-v06)
    - add Mari's mobile nav - cg
+* [Final Site v07](https://newmediaarts.github.io/2024studentshow/final-site-v07)
+   - fixing detail + summary
 
 ## To-do's:
 * ✓ Add fancybox (from 2023?) for the film 
 * Layout Student Sections
 * Get Content from Animators (copy + film poster image + url to video)
 * Figure out line art color, stroke, etc
-* Revise About Copy 
+* Revise About Copy + width
