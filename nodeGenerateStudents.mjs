@@ -10,7 +10,7 @@ import fs from "fs";
  * 2. node ./nodeGenerateStudents.mjs
  */
 const OUTPUT_PATH = path.join(process.cwd(), "final-site-v08/js/students");
-const STUDENTS_NAMES = ["sua", "eric"];
+const STUDENTS_NAMES = ["leighna", "megan", "emily", "andrew", "ian", "breann", "amanda"];
 
 const fileTemplate = `
 export default {
