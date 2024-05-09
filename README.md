@@ -33,6 +33,8 @@ A working repo for the NMA 2024 Student Show
    - add Mari's mobile nav - cg
 * [Final Site v07](https://newmediaarts.github.io/2024studentshow/final-site-v07)
    - fixing detail + summary
+* [Final Site v08](https://newmediaarts.github.io/2024studentshow/final-site-v08)
+   - js template with david
 
 ## To-do's:
 * ✓ Add fancybox (from 2023?) for the film 
