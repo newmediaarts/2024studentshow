@@ -305,11 +305,11 @@ header nav a {
     content: none;
   }
   
-  summary {
+.nma-overlaynav {
     list-style-type: none;
 }
 
-summary::webkit-details-marker {
+.nma-overlaynav::webkit-details-marker {
     display: none;
 }
   /* NMA NAVICON SQUISH STYLING */
