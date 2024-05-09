@@ -305,13 +305,17 @@ header nav a {
     content: none;
   }
   
-.nma-overlaynav {
+ .nma-overlaynav summary::-moz-list-bullet {
     list-style-type: none;
+    display: block;
 }
 
-.nma-overlaynav::webkit-details-marker {
+.nma-overlaynav summary::marker,
+.nma-overlaynav summary::-webkit-details-marker {
+    color: rgba(0,0,0,0);
     display: none;
 }
+
   /* NMA NAVICON SQUISH STYLING */
   
   .nma-navicon-squish > * {
