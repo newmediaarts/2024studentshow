@@ -206,6 +206,10 @@ body {
     /* border: 1px solid #000; */
 }
 
+.swapped {
+    display: flex;
+    flex-direction: row-reverse;
+}
 
 /* HEADER */
 header {
@@ -301,17 +305,6 @@ header nav a {
     content: none;
   }
   
- .nma-overlaynav summary::-moz-list-bullet {
-    list-style-type: none;
-    display: block;
-}
-
-.nma-overlaynav summary::marker,
-.nma-overlaynav summary::-webkit-details-marker {
-    color: rgba(0,0,0,0);
-    display: none;
-}
-
   /* NMA NAVICON SQUISH STYLING */
   
   .nma-navicon-squish > * {
@@ -465,11 +458,10 @@ section {
     padding: .4em .8em;
     white-space: none;
     text-decoration: none;
-transition: ease 0.3s;
 }
 .nav-graduates-names a:hover {
     text-decoration: underline;
-    text-decoration-style: wavy;
+text-decoration-style: wavy;
 }
 
 .student {
@@ -490,10 +482,6 @@ transition: ease 0.3s;
 #about {
     background-color: var(--color-show-blue60);
 }
-#about p{
-width: 35em;
-}
-
 /* @media (min-width: 768px) { */
     .student-grid {
         display: grid;
@@ -653,7 +641,7 @@ footer {
     color: #CD201F;
 }
 .fa-linkedin:hover {
-    color: #0073b1;
+    color: blue;
 }
 
 .fa-vimeo:hover {
