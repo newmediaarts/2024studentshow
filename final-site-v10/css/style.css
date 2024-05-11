@@ -315,7 +315,14 @@ header nav a {
     text-decoration: none;
     color: var(--color-text-light);
   }
-  
+
+  .nma-overlaynav li a:hover {
+    color: white;
+    text-decoration: underline wavy rgb(255 255 255 / .3);
+    text-underline-offset: 1.5vh;
+    text-decoration-thickness: .4vh;
+    }
+
   /* NMA MENU ICON */
   
   .nma-overlaynav .nma-menu-icon {
@@ -551,6 +558,7 @@ section {
     color: white;
     text-decoration: underline wavy rgb(8, 58, 111);
     text-underline-offset: 8px;
+    text-decoration-thickness: 1.5px;
 }
 
 .student {
