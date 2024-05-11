@@ -469,8 +469,12 @@ section {
     background-color: var(--color-show-blue80);
     background-image: url(../img/2024-studentshow-bg.jpg);
     background-size: cover;
-    background-attachment: fixed;
     padding: calc(3em + 5vh) 0 calc(2.5em + 9vh) 0;
+}
+@media (min-width:768px) {
+    .hero {
+        background-attachment: fixed;
+    }
 }
 
 .hero-wrapper { 
@@ -573,7 +577,12 @@ section {
 .student:nth-child(even) {
     background-image: url(../img/2024-studentshow-bg-section1.gif);
     background-size: cover;
-    background-attachment: fixed;
+}
+
+@media (min-width: 768px) {
+    .student:nth-child(even) {
+        background-attachment: fixed;
+    }
 }
 
 #location {
@@ -587,7 +596,12 @@ section {
     background-color: var(--color-show-blue60);
     background-image: url(../img/2024-studentshow-bg-section-about.gif);
     background-size: cover;
-    background-attachment: fixed;
+}
+
+@media (min-width: 768px) {
+    #about {
+        background-attachment: fixed;
+    }
 }
 
 /* STUDENT GRID */
