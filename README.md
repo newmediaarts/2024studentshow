@@ -37,6 +37,8 @@ A working repo for the NMA 2024 Student Show
    - js template with david
 * [Final Site v09](https://newmediaarts.github.io/2024studentshow/final-site-v09)
    - updated content using template
+* [Final Site v10](https://newmediaarts.github.io/2024studentshow/final-site-v10)
+   - added spice, temporailly commented out missing student work content - cg
 
 ## To-do's:
 * ✓ Add fancybox (from 2023?) for the film 
