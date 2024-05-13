@@ -42,10 +42,14 @@ A working repo for the NMA 2024 Student Show
 * [Final Site v11](https://newmediaarts.github.io/2024studentshow/final-site-v11)
    - updated content
 
+## SIGN IN PAGE:
+* [Sign in Page v01](https://newmediaarts.github.io/2024studentshow/signin)
+   - initial sign-in page v01
+
 ## To-do's:
 * ✓ Add fancybox (from 2023?) for the film 
-* Layout Student Sections
-* Get Content from Animators (copy + film poster image + url to video)
-* Figure out line art color, stroke, etc
-* Revise About Copy + width
+* ✓ Layout Student Sections
+* ✓ Get Content from Animators (copy + film poster image + url to video)
+* ✓ Figure out line art color, stroke, etc
+* ✓ evise About Copy + width
 * url to target blank
