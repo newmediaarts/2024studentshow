@@ -9,6 +9,9 @@ export default {
   },
   websiteLink: {
     href: "https://epadia.wixsite.com/epadia3d",
+  }, 
+  demoReelLink: {
+    href: "https://drive.google.com/file/d/1Docc8q_gKXcnGRATgtoSefhNqIB9A-c0/view?usp=sharing",
   },
   links: [
     {
