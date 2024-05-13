@@ -181,6 +181,13 @@ figure {
     }
 }
 
+@media (max-width: 767px) {
+    .hidden-on-mobile {
+        position: absolute !important;
+        top: -9999px !important;
+        left: -9999px !important;
+    }
+}
 /* LAYOUT */
 body {
     display: grid;
