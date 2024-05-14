@@ -8,7 +8,7 @@ export default {
     alt: "breann alt",
   },
   websiteLink: {
-    href: "https://github.com/breannlee/portfolio-v2",
+    href: "https://breannlee.github.io/portfolio/",
   },
   demoReelLink: {
     href: "",

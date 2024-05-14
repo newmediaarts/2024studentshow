@@ -7,7 +7,7 @@ export default {
     alt: "sua alt",
   },
   websiteLink: {
-    href: "https://sualeenma.github.io/portfolio/",
+    href: "https://sualeenma.github.io/",
   },
   demoReelLink: {
     href: "",
