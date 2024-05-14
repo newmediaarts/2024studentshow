@@ -570,7 +570,7 @@ margin-bottom: 0;
 .nav-graduates-names a {
     display: block;
     padding: .4em .8em;
-    white-space: none;
+    white-space: nowrap;
     text-decoration: none;
 }
 .nav-graduates-names a:hover {
