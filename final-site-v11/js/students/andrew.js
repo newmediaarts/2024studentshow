@@ -8,7 +8,7 @@ export default {
     alt: "andrew alt",
   },
   websiteLink: {
-    href: "https://eirean.github.io/portfolio-v3",
+    href: "https://andrewp.design",
   },
   demoReelLink: {
     href: "",
