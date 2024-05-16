@@ -88,6 +88,7 @@ function createStudentSections(allStudents, studentContainer, studentSection) {
         const li = document.createElement("li");
         const linkEl = document.createElement("a");
         linkEl.classList.add("fab", "icon", link.iconClass);
+        linkEl.href = link.href;
         li.appendChild(linkEl);
 
         linkWrapperItems.appendChild(li);
