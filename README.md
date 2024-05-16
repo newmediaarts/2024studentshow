@@ -40,7 +40,9 @@ A working repo for the NMA 2024 Student Show
 * [Final Site v10](https://newmediaarts.github.io/2024studentshow/final-site-v10)
    - added spice, temporailly commented out missing student work content - cg
 * [Final Site v11](https://newmediaarts.github.io/2024studentshow/final-site-v11)
-   - updated content
+   - updated content - ml & cg
+* [Final Site v12](https://newmediaarts.github.io/2024studentshow/final-site-v12)
+   - added link to practicum video - cg
 
 ## SIGN IN PAGE:
 * [Sign in Page v01](https://newmediaarts.github.io/2024studentshow/signin)
